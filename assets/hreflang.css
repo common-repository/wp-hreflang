@@ -1,0 +1,20 @@
+.hreflang {
+    
+}
+
+.hreflang table {
+    border:1px solid #ccc;
+    border-bottom:0px;
+}
+
+.hreflang table tr td {
+    /*border-bottom:1px solid #CCC;*/
+}
+
+.hreflang .rowselected {
+    background-color: #DDEEFF;
+}
+
+#hreflang-reload:disabled img {
+    opacity:0.5;
+}
